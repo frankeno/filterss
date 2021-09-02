@@ -8,3 +8,4 @@ Curated list of CSS image filters, ready to copy and paste in your webpage.<br>
 2. Set the class name to your image:<br>
 `<img class="filter-[nr]" src="[your-image.jpg]">`
 
+See the demo here: https://xscoder.com/filterss/
