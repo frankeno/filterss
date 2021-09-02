@@ -1,0 +1,47 @@
+/* 
+  FilterSS - CSS Custom Image Filters
+  Made by XScoder - https://xscoder.com
+*/
+
+.filter-1 {-webkit-filter: sepia(.5) hue-rotate(-30deg) saturate(1.4);filter: sepia(.5) hue-rotate(-30deg) saturate(1.4);} 
+.filter-2 {-webkit-filter: sepia(.2) brightness(1.15) saturate(1.4);filter: sepia(.2) brightness(1.15) saturate(1.4);}
+.filter-3 {-webkit-filter: sepia(.35) contrast(1.1) brightness(1.2) saturate(1.3);filter: sepia(.35) contrast(1.1) brightness(1.2) saturate(1.3);}
+.filter-4 {-webkit-filter: sepia(.5) contrast(1.2) saturate(1.8);filter: sepia(.5) contrast(1.2) saturate(1.8);}
+.filter-5 {-webkit-filter: sepia(.4) contrast(1.25) brightness(1.1) saturate(.9) hue-rotate(-2deg);filter: sepia(.4) contrast(1.25) brightness(1.1) saturate(.9) hue-rotate(-2deg);}
+.filter-6 {-webkit-filter: sepia(.25) contrast(1.25) brightness(1.25) hue-rotate(5deg);filter: sepia(.25) contrast(1.25) brightness(1.25) hue-rotate(5deg);}
+.filter-7 {-webkit-filter: sepia(.25) contrast(1.25) brightness(1.25) saturate(1.35) hue-rotate(-5deg);filter: sepia(.25) contrast(1.25) brightness(1.25) saturate(1.35) hue-rotate(-5deg);}
+.filter-8 {-webkit-filter: sepia(.15) contrast(1.25) brightness(1.25) hue-rotate(5deg);filter: sepia(.15) contrast(1.25) brightness(1.25) hue-rotate(5deg);}
+.filter-9 {-webkit-filter: sepia(.5) contrast(1.25) brightness(1.15) saturate(.9) hue-rotate(-2deg);filter: sepia(.5) contrast(1.25) brightness(1.15) saturate(.9) hue-rotate(-2deg);}
+.filter-10 {-webkit-filter: sepia(.35) saturate(1.1) contrast(1.5);filter: sepia(.35) saturate(1.1) contrast(1.5);}
+.filter-11 {-webkit-filter: sepia(.25) contrast(1.25) brightness(1.15) saturate(.9) hue-rotate(-5deg);filter: sepia(.25) contrast(1.25) brightness(1.15) saturate(.9) hue-rotate(-5deg);}
+.filter-12 {-webkit-filter: contrast(1.1) brightness(1.1);filter: contrast(1.1) brightness(1.1);}
+.filter-13 {-webkit-filter: sepia(.25) contrast(1.15) brightness(1.2) saturate(1.35) hue-rotate(-5deg);filter: sepia(.25) contrast(1.15) brightness(1.2) saturate(1.35) hue-rotate(-5deg);}
+.filter-14 {-webkit-filter: sepia(.4) contrast(1.5) brightness(1.2) saturate(1.4) hue-rotate(-10deg);filter: sepia(.4) contrast(1.5) brightness(1.2) saturate(1.4) hue-rotate(-10deg);}
+.filter-15 {-webkit-filter: sepia(.5) contrast(1.05) brightness(1.05) saturate(1.35);filter: sepia(.5) contrast(1.05) brightness(1.05) saturate(1.35);}
+.filter-16 {-webkit-filter: sepia(.25) contrast(1.2) brightness(1.2) saturate(1.05) hue-rotate(-15deg);filter: sepia(.25) contrast(1.2) brightness(1.2) saturate(1.05) hue-rotate(-15deg);}
+.filter-17 {-webkit-filter: brightness(1.25) contrast(.85) grayscale(1);filter: brightness(1.25) contrast(.85) grayscale(1);}
+.filter-18 {-webkit-filter: sepia(.35) contrast(1.15) brightness(1.15) saturate(1.8);filter: sepia(.35) contrast(1.15) brightness(1.15) saturate(1.8);}
+.filter-19 {-webkit-filter: sepia(.15) contrast(1.5) brightness(1.1) hue-rotate(-10deg);filter: sepia(.15) contrast(1.5) brightness(1.1) hue-rotate(-10deg);}
+.filter-20 {-webkit-filter: sepia(.25) contrast(1.2) brightness(1.3) saturate(1.25);filter: sepia(.25) contrast(1.2) brightness(1.3) saturate(1.25);}
+.filter-21 {-webkit-filter: saturate(1.1) contrast(1.5);filter: saturate(1.1) contrast(1.5);}
+.filter-22 {-webkit-filter: sepia(.25) contrast(1.05) brightness(1.05) saturate(2);filter: sepia(.25) contrast(1.05) brightness(1.05) saturate(2);}
+.filter-23 {-webkit-filter: sepia(.35) contrast(1.05) brightness(1.05) saturate(1.75);filter: sepia(.35) contrast(1.05) brightness(1.05) saturate(1.75);}
+.filter-24 {-webkit-filter: contrast(1.1) brightness(1.15) saturate(1.1);filter: contrast(1.1) brightness(1.15) saturate(1.1);}
+.filter-25 {-webkit-filter: brightness(1.4) contrast(.95) saturate(0) sepia(.35);filter: brightness(1.4) contrast(.95) saturate(0) sepia(.35);}
+.filter-26 {-webkit-filter: sepia(.25) contrast(1.5) brightness(.9) hue-rotate(-15deg);filter: sepia(.25) contrast(1.5) brightness(.9) hue-rotate(-15deg);}
+.filter-27 {-webkit-filter: contrast(1.1) brightness(1.25) saturate(1.1);filter: contrast(1.1) brightness(1.25) saturate(1.1);}
+.filter-28 {-webkit-filter: sepia(.15) brightness(1.2);filter: sepia(.15) brightness(1.2);}
+.filter-39 {-webkit-filter: sepia(.75) contrast(.75) brightness(1.25) saturate(1.4);filter: sepia(.75) contrast(.75) brightness(1.25) saturate(1.4);}
+.filter-30 {-webkit-filter: sepia(.25) contrast(1.25) brightness(1.2) saturate(.9);filter: sepia(.25) contrast(1.25) brightness(1.2) saturate(.9);}
+.filter-31 {-webkit-filter: sepia(.25) contrast(1.5) brightness(.9) hue-rotate(-15deg);filter: sepia(.25) contrast(1.5) brightness(.9) hue-rotate(-15deg);}
+.filter-32 {-webkit-filter: sepia(.15) contrast(1.25) brightness(1.25) saturate(1.2);filter: sepia(.15) contrast(1.25) brightness(1.25) saturate(1.2);}
+.filter-33 {-webkit-filter: sepia(.35) contrast(1.25) saturate(1.25);filter: sepia(.35) contrast(1.25) saturate(1.25);}
+.filter-34 {-webkit-filter: sepia(.35) contrast(1.25) brightness(1.1) saturate(1.25);filter: sepia(.35) contrast(1.25) brightness(1.1) saturate(1.25);}
+.filter-35 {-webkit-filter: sepia(.4) contrast(1.2) brightness(.9) saturate(1.4) hue-rotate(-10deg);filter: sepia(.4) contrast(1.2) brightness(.9) saturate(1.4) hue-rotate(-10deg);}
+.filter-36 {-webkit-filter: sepia(.25) contrast(1.5) brightness(.95) hue-rotate(-15deg);filter: sepia(.25) contrast(1.5) brightness(.95) hue-rotate(-15deg);}
+.filter-37 {-webkit-filter: sepia(.25) contrast(1.1) brightness(1.1);filter: sepia(.25) contrast(1.1) brightness(1.1);}
+.filter-38 {-webkit-filter: sepia(.35) contrast(1.15) brightness(1.2) saturate(1.3);filter: sepia(.35) contrast(1.15) brightness(1.2) saturate(1.3);}
+.filter-39 {-webkit-filter: sepia(.35) contrast(.8) brightness(1.25) saturate(1.4);filter: sepia(.35) contrast(.8) brightness(1.25) saturate(1.4);}
+.filter-40 {-webkit-filter: brightness(1.2) contrast(.85) saturate(.05) sepia(.2);filter: brightness(1.2) contrast(.85) saturate(.05) sepia(.2);}
+.filter-41 {-webkit-filter: sepia(.45) contrast(1.25) brightness(1.75) saturate(1.3) hue-rotate(-5deg);filter: sepia(.45) contrast(1.25) brightness(1.75) saturate(1.3) hue-rotate(-5deg);}
+.filter-42 {-webkit-filter: sepia(.45) contrast(1.50) brightness(0.75) saturate(1.3) hue-rotate(-5deg) invert(80%); filter: sepia(.45) contrast(1.50) brightness(0.75) saturate(1.3) hue-rotate(-5deg) invert(80%);}
