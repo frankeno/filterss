@@ -1,6 +1,6 @@
 # FilterSS
 Curated list of CSS image filters, ready to copy and paste in your webpage.<br><br>
-Go here to copy the codes: https://xscoder.com/filterss/
+Go here to copy the codes: https://xsgames.co/filterss/
 
 ## Usage:<br>
 1. Once you copied a code, paste it in your `.css` style file
